@@ -1,0 +1,7 @@
+C:\Users\zebra\source\repos\BossLang\BossLang\bin\Debug\BossLang.exe.config
+C:\Users\zebra\source\repos\BossLang\BossLang\bin\Debug\BossLang.exe
+C:\Users\zebra\source\repos\BossLang\BossLang\bin\Debug\BossLang.pdb
+C:\Users\zebra\source\repos\BossLang\BossLang\obj\Debug\BossLang.csproj.AssemblyReference.cache
+C:\Users\zebra\source\repos\BossLang\BossLang\obj\Debug\BossLang.csproj.CoreCompileInputs.cache
+C:\Users\zebra\source\repos\BossLang\BossLang\obj\Debug\BossLang.exe
+C:\Users\zebra\source\repos\BossLang\BossLang\obj\Debug\BossLang.pdb

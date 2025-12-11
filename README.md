@@ -39,7 +39,7 @@ print_out("Math result: " ++ result);
 
 for(int i = 0; i < 3; i = i + 1) {
     print_out("Looping: " ++ i);
-}
+}```
 
 ⚙️ Types Supported
 

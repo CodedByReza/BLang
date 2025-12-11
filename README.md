@@ -13,6 +13,34 @@ It includes:
 
 BLang is written entirely in **C#** and is designed to be simple, readable, and fun to experiment with.
 
+🛠 Future Plans
+- Arrays / lists
+- Error system with line numbers
+- Standard library (math, file I/O, strings)
+- A REPL (boss> interactive mode)
+- Module system (import)
+- Compiler backend (possibly LLVM or C output)
+- Packaging system
+- Embeddable scripting for game engines
+
+🏗 Goal
+- BLang is a personal experiment that evolved into a real scripting language.
+- Its purpose is to:
+- help explore compiler & language design
+- serve as a scripting engine for tools or games
+- evolve into a clean, fast, modern lightweight language
+
+🧑‍💻 Author
+Created by Reza, 2025
+A passion project exploring compilers, scripting languages, and system design.
+
+⭐ Contribute
+Feel free to fork, submit issues, or open pull requests!
+Ideas, improvements, and contributions are always welcome.
+
+📜 License
+MIT License — free to use, modify, and distribute.
+
 ---
 
 ## ✨ Features
@@ -39,6 +67,4 @@ print_out("Math result: " ++ result);
 
 for(int i = 0; i < 3; i = i + 1) {
     print_out("Looping: " ++ i);
-}```
-
----
+}
